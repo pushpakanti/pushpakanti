@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hi, I'm Pushpakanti Duari<br><br>🎓 B.Tech CSE (Data Science)<br><br>💡 Passionate about Machine Learning, Deep Learning Computer Vision, Backend Development, and AI Research
 
 
